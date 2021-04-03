@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/shubham-387337129"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shubham .-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:shubham26.bdps@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shubham26.bdps@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
