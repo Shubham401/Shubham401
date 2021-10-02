@@ -39,7 +39,8 @@
 <br/>
 
 <a href="https://github.com/Shubham401">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham401&theme=buefy&show_icons=true" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham401&theme=buefy&show_icons=true" /> -->
+  <img align="left" alt="Shubham's Github Stat" src="https://github-readme-stats.vercel.app/api?username=Shubham401&theme=buefy&show_icons=true"
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham401&theme=buefy&layout=compact" />
 </a> 
 
